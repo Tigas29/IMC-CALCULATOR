@@ -41,7 +41,7 @@ $ git clone https://github.com/Tigas29/IMC-CALCULATOR.git
 
 
 ```
-## :information_source: Or visit by the link :  [page](https://imc-calculator-tigas29.vercel.app/)
+## :information_source:[Or click here!](https://imc-calculator-tigas29.vercel.app/)
 
 
 ## Result
