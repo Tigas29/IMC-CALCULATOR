@@ -1,17 +1,17 @@
 
 <h1 align="center">
 Imc Calculator 🔢
-</h3>
+</h1>
+
 
 <p align="center">“Push yourself, because no one else is going to do it for you.”!</blockquote>
 
 <h3> 
   
-This application made in React Native was thought to be a very cool e-commerce, 
-to show some of my skills in developing mobile applications and learn more about React Native. 
+This application made in Vanilla JavaScript was thought to be a very easy usefull Imc Calculator, 
+to show some of my skills in Programming logic and learn more about JavaScript. 
 
-I used Hook UseContext very simply to give more power to this application and to demonstrate 
-a good alternative to using Redux.
+
 
 </h3>
   
@@ -24,35 +24,26 @@ a good alternative to using Redux.
 
 ## :rocket: Technologies
 
-- [ReactNative](https://reactnative.dev/)
-- [UseContext Hook](https://reactjs.org/docs/hooks-reference.html)
-- [json-server](https://github.com/typicode/json-server)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [VS Code](https://code.visualstudio.com/) with [EditorConfig](https://editorconfig.org/), [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/).
 
 ## :information_source: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node](https://nodejs.org) and ReactJS(https://reactjs.org/) installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/dolfomori/gostack-template-fundaments-react-native.git
+$ git clone https://github.com/Tigas29/IMC-CALCULATOR.git
 
 # Go into the repository
 
-# Install dependencies
-$ npm install
+# Open the .html to see de project
 
-# If you are going to run on an iOS emulator
-$ cd ios
-$ pod install
-
-# Run the app
-$ npm start
 
 ```
 
 ## Result
 
-<img src="https://github.com/dolfomori/gostack-template-fundaments-react-native/blob/master/src/assets/screen_shot.png" width="800">
+<img src="https://github.com/Tigas29/IMC-CALCULATOR/blob/main/assetsReadme/result.png?raw=true" width="800">
 
-Made with ♥ by Rodolfo Mori :wave: [Get in touch!](https://www.linkedin.com/in/rodolfomori/)
+Made with ♥ by Tiago Santos :wave: [Get in touch!](https://www.linkedin.com/in/tiagosantos-dev/)
