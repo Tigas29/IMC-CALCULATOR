@@ -1,14 +1,10 @@
-const nameInput = document.getElementById("name");
-const heightInput = document.getElementById("height");
-const weightInput = document.getElementById("weight");
 const btn = document.getElementById("calculate");
 const resultText = document.getElementById("result");
 
-// Function
 function calc() {
-  const height = heightInput.value;
-  const weight = weightInput.value;
-  const name = nameInput.value;
+  const name = document.getElementById("name").value;
+  const weight = document.getElementById("height").value;
+  const height = document.getElementById("weight").value;
   const count = weight / (height * height);
   const imc = count.toFixed(2);
   let condition = "";
