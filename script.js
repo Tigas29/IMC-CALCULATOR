@@ -37,4 +37,3 @@ function getValues() {
 }
 
 btn.addEventListener("click", getValues);
-getValues();
